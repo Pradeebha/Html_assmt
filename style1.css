@@ -1,0 +1,18 @@
+div
+{
+    margin:auto;
+    max-width:600px;
+    font-size: large;
+    
+}
+body{
+    background-color: rgb(166, 177, 173);
+
+}
+blockquote{
+    border:1px solid white;
+    margin-left:0;
+    text-align: center;
+    
+    
+}
